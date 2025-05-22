@@ -1,0 +1,1 @@
+//NextAuth + Cognito setup
