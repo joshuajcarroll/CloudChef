@@ -1,6 +1,6 @@
 import React from 'react'
 
-function SubmitPage() {
+function SubmitPage() { //Recipe Submission page
   return (
     <div>SubmitPage</div>
   )
